@@ -1,3 +1,5 @@
-/controller/
-/domain/
 /service/
+/sqlmapper/
+/domain/
+/common/
+/controller/

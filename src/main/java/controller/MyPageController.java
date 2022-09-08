@@ -56,6 +56,10 @@ public class MyPageController extends HttpServlet {
 		case "/mypage/my_information":
 			viewPage = "my_information.jsp";
 			break;
+			
+		case "/mypage/my_info":
+			viewPage = "my_info.jsp";
+			break;
 		} // end switch
 		
 		if(viewPage != null) {
